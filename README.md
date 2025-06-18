@@ -58,5 +58,3 @@
 - 🌍 **Location**: Gujarat, India
 
 ---
-
-> 💬 *"Code with purpose. Build with impact."*
